@@ -8,12 +8,14 @@ This Tableau dashboard project aims to visually represent and analyze the sales 
 
 ## Data Source
 
-The Sample Superstore Excel file (included in the repository) is used as the data source.
+The Sample Superstore Excel file (included in the repository) is used as the data source. 
+You can find the link to the dataset here: https://public.tableau.com/app/sample-data/sample_-_superstore.xls
 
 ## Tableau Dashboard: Sample Superstore Sales Analysis
 
 I have created Tableau dashboard which presents a variety of visualizations to help users explore the Sample Superstore data.
-https://public.tableau.com/views/SampleSuperstoreDashboard_16856184053770/SampleSuperstoreDashboard?:language=en-GB&:display_count=n&:origin=viz_share_link
+
+###Link to my dashboard: https://public.tableau.com/views/SampleSuperstoreDashboard_16856184053770/SampleSuperstoreDashboard?:language=en-GB&:display_count=n&:origin=viz_share_link
 
 ### Sales Overview
 
