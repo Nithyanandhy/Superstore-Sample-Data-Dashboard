@@ -15,7 +15,7 @@ You can find the link to the dataset here: https://public.tableau.com/app/sample
 
 I have created Tableau dashboard which presents a variety of visualizations to help users explore the Sample Superstore data.
 
-###Link to my dashboard: https://public.tableau.com/views/SampleSuperstoreDashboard_16856184053770/SampleSuperstoreDashboard?:language=en-GB&:display_count=n&:origin=viz_share_link
+### Link to my dashboard: https://public.tableau.com/views/SampleSuperstoreDashboard_16856184053770/SampleSuperstoreDashboard?:language=en-GB&:display_count=n&:origin=viz_share_link
 
 Here are some key visualizations included in the dashboard:
 
