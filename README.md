@@ -16,25 +16,21 @@ I have created Tableau dashboard which presents a variety of visualizations to h
 
 ### Sales Overview
 
-![Sales Overview](sales_overview.png) <!-- Replace with the actual image of the sales overview visualization -->
+![Sample_Superstore_Dashboard](Sample_Superstore_Dashboard.png) <!-- Replace with the actual image of the sales overview visualization -->
 
 This visualization provides an overview of sales trends over time. It includes line charts showing monthly sales and a bar chart displaying sales by category. Users can filter by specific time periods and categories to drill down into the data.
 
 ### Profit Analysis
 
-![Profit Analysis](profit_analysis.png) <!-- Replace with the actual image of the profit analysis visualization -->
 
 The profit analysis visualization showcases the distribution of profits across different product segments. It includes a treemap chart that highlights the most and least profitable segments, allowing users to quickly identify areas of opportunity or concern.
 
 ### Customer Segmentation
 
-![Customer Segmentation](customer_segmentation.png) <!-- Replace with the actual image of the customer segmentation visualization -->
 
 This visualization employs a scatter plot to illustrate customer segments based on their order frequency and average order value. The color-coded clusters provide insights into different customer behaviors, enabling marketing strategies targeted at specific segments.
 
 ### Geographic Sales Map
-
-![Geographic Sales Map](geographic_sales_map.png) <!-- Replace with the actual image of the geographic sales map visualization -->
 
 The geographic sales map displays sales data on a map, showing the geographic distribution of orders and sales values. Users can interact with the map to zoom in on specific regions and hover over markers to view detailed sales information.
 
