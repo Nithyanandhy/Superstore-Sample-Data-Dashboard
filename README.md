@@ -13,6 +13,7 @@ The Sample Superstore Excel file (included in the repository) is used as the dat
 ## Tableau Dashboard: Sample Superstore Sales Analysis
 
 I have created Tableau dashboard which presents a variety of visualizations to help users explore the Sample Superstore data.
+https://public.tableau.com/views/SampleSuperstoreDashboard_16856184053770/SampleSuperstoreDashboard?:language=en-GB&:display_count=n&:origin=viz_share_link
 
 ### Sales Overview
 
